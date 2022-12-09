@@ -13,6 +13,7 @@
     box-sizing: border-box;
     font-family: 'Josefin Sans', sans-serif;
     color: var(--branco);
+    overflow-x: hidden;
 }
 
 /* Animation */
