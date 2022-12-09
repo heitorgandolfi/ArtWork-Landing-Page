@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/113437603/203556819-a02a91c4-0372-40b1-9bad-5868979dc259.png" width="760px">
+<img src="https://user-images.githubusercontent.com/113437603/206704788-4819658b-2cba-4630-a690-a555b075479c.png" width="760px">
  
  </div>
 
@@ -18,7 +18,7 @@
 
 ### **Deploy do projeto:**
 
-- #
+- https://art-work-landing-page.vercel.app/
 
 <br>
 
