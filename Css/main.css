@@ -13,6 +13,7 @@
     box-sizing: border-box;
     font-family: 'Josefin Sans', sans-serif;
     color: var(--branco);
+    overflow-x: hidden;
 }
 
 /* Animation */
@@ -123,6 +124,7 @@
         right: 0;
         top: 0;
         animation: go-back 1s;
+        z-index: 20;
     }
 
     #nav-list li {
@@ -162,7 +164,6 @@
     font-size: 5.25rem;
     font-weight: 400;
     letter-spacing: 1px;
-    width: 50%;
 }
 
 #first-article-content p {
@@ -210,6 +211,14 @@
     #first-article-content h2 {
         font-size: 36px;
     }
+
+    #first-article-interaction p {
+        font-size: 14px;
+    }
+
+    #first-article-interaction i {
+        font-size: 25px;
+    }
 }
 
 @media (width<=370px) and (width>255px) {
@@ -219,6 +228,10 @@
 
     #first-article-interaction p {
         font-size: 0.875rem;
+    }
+
+    #first-article-interaction i {
+        font-size: 30px;
     }
 }
 
