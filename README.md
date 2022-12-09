@@ -8,7 +8,7 @@
 
 ### **Sobre o projeto:**
 
-- A Landing Page foi projetada a partir do design abaixo, idealizado por um terceiro. Para tanto, foi feito uso de HTML, CSS e JavaScript, bem como a biblioteca AOS para as animações ativadas pelo scroll.  
+- A Landing Page foi projetada a partir do design abaixo, idealizado por um terceiro. Para tanto, foi feito uso de HTML, CSS e JavaScript, bem como da biblioteca AOS para as animações ativadas pelo scroll.  
 
 - Design: https://bityli.com/bZEEq
 
