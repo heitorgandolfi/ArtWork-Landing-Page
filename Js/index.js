@@ -2,7 +2,7 @@ let menuBtn = document.querySelector("#btn-mobile");
 let closeBtn = document.querySelector("#close-menu");
 
 function toggleMenu(event) {
-    // if (event.type === "touchstart") event.preventDefault();
+    if (event.type === "touchstart") event.preventDefault();
     const nav = document.querySelector("#nav");
     nav.classList.toggle("active");
     const active = nav.classList.contains("active");
@@ -10,7 +10,7 @@ function toggleMenu(event) {
 }
 
 menuBtn.addEventListener("click", toggleMenu);
-// menuBtn.addEventListener("touchstart", toggleMenu);
+menuBtn.addEventListener("touchstart", toggleMenu);
 
 function closeMenu() {
     const nav = document.querySelector("#nav");
