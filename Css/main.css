@@ -22,6 +22,7 @@
     0% {
         transform: translateX(100px);
     }
+
     100% {
         transform: translateX(0);
     }
@@ -102,7 +103,7 @@
     color: var(--laranja);
 }
 
-@media (width<1000px) {
+@media screen and (max-width: 1000px) {
     #btn-mobile {
         display: initial;
     }
@@ -207,7 +208,7 @@
     animation: go-back 1.5s;
 }
 
-@media (width<=255px) {
+@media screen and (max-width: 255px) {
     #first-article-content h2 {
         font-size: 36px;
     }
@@ -221,7 +222,7 @@
     }
 }
 
-@media (width<=370px) and (width>255px) {
+@media screen and (max-width: 370px) and (min-width: 255px) {
     #first-article-content h2 {
         font-size: 2.625rem;
     }
@@ -235,7 +236,7 @@
     }
 }
 
-@media (width<678px) and (width>370px) {
+@media screen and (max-width: 678px) and (min-width: 370px) {
     #first-article-content h2 {
         font-size: 3.5rem;
     }
@@ -245,13 +246,13 @@
     }
 }
 
-@media (width<678px) {
+@media screen and (max-width: 677px) {
     #first-article-content {
         gap: 2.5rem;
     }
 }
 
-@media (width<=1292px) {
+@media screen and (max-width: 1292px) {
     #first-aside-img img {
         margin-left: 1.5rem;
     }
@@ -335,7 +336,7 @@
     width: 90%;
 }
 
-@media (width<=370px) {
+@media screen and (max-width: 370px) {
     #second-article-content h3 {
         font-size: 2.625rem;
     }
@@ -449,19 +450,19 @@
     color: var(--laranja);
 }
 
-@media (width<569px) {
+@media screen and (max-width: 568px) {
     #third-article-content h3 {
         font-size: 2.625rem;
     }
 }
 
-@media (width<=560px) {
+@media screen and (max-width: 560px) {
     #third-article form input {
         width: 200px;
     }
 }
 
-@media (width<=1143px) {
+@media screen and (max-width: 1143px) {
     #third-article {
         gap: 2.5rem;
     }
@@ -518,13 +519,13 @@
     opacity: 1;
 }
 
-@media (width<=447px) {
+@media screen and (max-width: 447px) {
     #footer {
         padding: 2.5rem;
     }
 }
 
-@media (width<1200px) {
+@media screen and (max-width: 1199px) {
 
     #footer {
         gap: 2.5rem;
