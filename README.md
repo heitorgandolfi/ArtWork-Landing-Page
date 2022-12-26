@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/113437603/209563515-d2883cf7-c94f-45fd-a880-2ff71d955600.png" width="760px">
+<img src="https://user-images.githubusercontent.com/113437603/206704788-4819658b-2cba-4630-a690-a555b075479c.png" width="760px">
  
  </div>
 
@@ -10,7 +10,7 @@
 
 - A Landing Page foi projetada a partir do design abaixo, idealizado por um terceiro. Para tanto, foi feito uso de HTML, CSS e JavaScript, bem como da biblioteca AOS para as animações ativadas pelo scroll.  
 
-- Design: https://bityli.com/RPGhH
+- Design: https://bityli.com/bZEEq
 
 - **Status:** Finalizado. :heavy_check_mark: 
 
@@ -18,7 +18,7 @@
 
 ### **Deploy do projeto:**
 
-- https://numeral-landing-page.vercel.app/
+- https://art-work-landing-page.vercel.app/
 
 <br>
 
